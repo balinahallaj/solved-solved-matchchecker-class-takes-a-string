@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solved-matchchecker-class-takes-a-string
+<br>
+Assignment 11 class displays a menu of choices to a user // and performs the chosen task. It will keep asking a user to // enter the next choice until the choice of ‘Q’ (Quit) is entered. MatchChecker class takes a string and checks //where if the {, [, or (don’t match with), ], or } at the position 0 does not match.” at the position ” + i + ” does not match.” at the position 16 does not match see if stack is empty – if so, say which is missing check if last one is an open version of any of the three
